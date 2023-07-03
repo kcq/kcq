@@ -1,16 +1,30 @@
 ### Hi there 👋
 
-<!--
-**kcq/kcq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I little bit about me... 
 
-Here are some ideas to get you started:
+- CTO/Founder at Slim.AI.
+- Created SlimToolkit/DockerSlim ( https://slimtoolkit.org )
+- All things Cloud Native, containers, system tracing including eBPF and security
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+Other interesting projects:
+
+- 50 Shades of Go: http://golang50shad.es ( http://devs.cloudimmunity.com/gotchas-and-common-mistakes-in-go-golang/ )
+- Go Project Layout: https://github.com/golang-standards/project-layout
+
+
+Recent Talks:
+
+- Simplifying the Journey of Your Containerized Application from Dev to Production: https://www.youtube.com/watch?v=8iJ_6VUzk1I
+- eBPF Library Ecosystem Overview in Go, Rust, Python and C: https://www.youtube.com/watch?v=J5AE93Ah1ew
+- Building Your Own Kubectl Trace on Steroids Using BPF Libraries in Go, Rust, Python and C: https://cloudnativeebpfdayna21.sched.com/event/mFTK/building-your-own-kubectl-trace-on-steroids-using-bpf-libraries-in-go-rust-python-and-c-kyle-quest-dockerslim
+- Secure and Debuggable: Debugging Slim, Scratch and Distroless Kubernetes Containers: https://kubedayjapan2022.sched.com/event/1C8kj/secure-and-debuggable-debugging-slim-scratch-and-distroless-kubernetes-containers-saiyam-pathak-civo-limited-kyle-quest-slim-ai
+
+
+Online:
+
+- Twitter: https://twitter.com/kcqon
+- Website: https://kylequest.com (WIP)
+- LinkedIn: https://www.linkedin.com/in/kylequest/
+
+
