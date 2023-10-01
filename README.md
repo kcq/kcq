@@ -23,6 +23,15 @@ Recent Talks:
 - Simplifying the Journey of Your Containerized Application from Dev to Production: [slides](https://speakerdeck.com/kcq/simplifying-the-journey-of-your-containerized-application-from-dev-to-production), [video](https://www.youtube.com/watch?v=8iJ_6VUzk1I) (DevX Conf 2021)
 
 
+Podcasts:
+
+- [Building Secure Containers Faster with Slim AI - Episode 86](https://podcasters.spotify.com/pod/show/ossstartuppodcast/episodes/E86-Building-Secure-Containers-Faster-with-Slim-AI-e243j0i) ( Open Source Startup Podcast - https://oss-startup-podcast.launchnotes.io )
+- [Episode 34, Slim.AI](https://www.heavybit.com/library/podcasts/the-kubelist-podcast/ep-34-slim-ai-with-kyle-quest-and-john-amaral) ( The Kubelist Podcast - https://kubelist.com/podcast )
+- [Episode 105, Slim.AI](https://podcast.sustainoss.org/105) ( Sustain Podcast - https://sustainoss.org )
+- [DockerSlim with Kyle Quest](https://www.contributor.fyi/dockerslim) ( Contributor FYI Podcast - https://www.contributor.fyi )
+- [Episode 32, The need for Slim Docker Container Images with @DockerSlim & Slim.AI](https://www.youtube.com/watch?v=1o14tIEhZL0) ( CloudNative FM - https://www.youtube.com/@cloudnativefm )
+
+
 Online:
 
 - Twitter: https://twitter.com/kcqon
