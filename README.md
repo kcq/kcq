@@ -15,10 +15,12 @@ Other interesting projects:
 
 Recent Talks:
 
-- Simplifying the Journey of Your Containerized Application from Dev to Production: [slides](https://speakerdeck.com/kcq/simplifying-the-journey-of-your-containerized-application-from-dev-to-production), [video](https://www.youtube.com/watch?v=8iJ_6VUzk1I)
-- eBPF Library Ecosystem Overview in Go, Rust, Python and C: https://www.youtube.com/watch?v=J5AE93Ah1ew
-- Building Your Own Kubectl Trace on Steroids Using BPF Libraries in Go, Rust, Python and C: https://cloudnativeebpfdayna21.sched.com/event/mFTK/building-your-own-kubectl-trace-on-steroids-using-bpf-libraries-in-go-rust-python-and-c-kyle-quest-dockerslim
+- Minifying Containers with SlimToolkit and eBPF Leveraging Tetragon's File System Activity Tracing (ebpfSummit 2023)
+- Build Your Own “kubectl” in Node, Python and Go: Fun(damentals) of Programming Kubernetes Client Apps (Civo Navigate Europe 2023)
 - Secure and Debuggable: Debugging Slim, Scratch and Distroless Kubernetes Containers: https://kubedayjapan2022.sched.com/event/1C8kj/secure-and-debuggable-debugging-slim-scratch-and-distroless-kubernetes-containers-saiyam-pathak-civo-limited-kyle-quest-slim-ai
+- Building Your Own Kubectl Trace on Steroids Using BPF Libraries in Go, Rust, Python and C: https://cloudnativeebpfdayna21.sched.com/event/mFTK/building-your-own-kubectl-trace-on-steroids-using-bpf-libraries-in-go-rust-python-and-c-kyle-quest-dockerslim
+- eBPF Library Ecosystem Overview in Go, Rust, Python and C: https://www.youtube.com/watch?v=J5AE93Ah1ew
+- Simplifying the Journey of Your Containerized Application from Dev to Production: [slides](https://speakerdeck.com/kcq/simplifying-the-journey-of-your-containerized-application-from-dev-to-production), [video](https://www.youtube.com/watch?v=8iJ_6VUzk1I)
 
 
 Online:
