@@ -30,6 +30,7 @@ Podcasts:
 - [Episode 105, Slim.AI](https://podcast.sustainoss.org/105) ( Sustain Podcast - https://sustainoss.org )
 - [DockerSlim with Kyle Quest](https://www.contributor.fyi/dockerslim) ( Contributor FYI Podcast - https://www.contributor.fyi )
 - [Episode 32, The need for Slim Docker Container Images with @DockerSlim & Slim.AI](https://www.youtube.com/watch?v=1o14tIEhZL0) ( CloudNative FM - https://www.youtube.com/@cloudnativefm )
+- [Improving Your Containers with docker-slim and Slim.AI](https://www.youtube.com/watch?v=ql0UxDYJTMs) ( Kubesimplify - https://www.youtube.com/@kubesimplify )
 
 
 Online:
