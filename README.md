@@ -2,10 +2,10 @@
 
 I little bit about me... 
 
-- CTO/Founder at **Slim.AI**.
-- Created **SlimToolkit**/**DockerSlim** ( https://slimtoolkit.org )
 - All things Cloud Native, containers, system tracing including eBPF and security
-
+- Created **SlimToolkit**/**DockerSlim** ( https://slimtoolkit.org )
+- Founder/CEO at **q/NEXT**
+- Founder/CTO at **Slim.AI**.
 
 ### Other interesting projects
 
