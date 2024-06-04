@@ -3,8 +3,8 @@
 I little bit about me... 
 
 - All things Cloud Native, containers, system tracing including eBPF and security
-- Created **SlimToolkit**/**DockerSlim** ( https://slimtoolkit.org )
-- Founder/CEO at **q/NEXT**
+- Created **DockerSlim**/**SlimToolkit**/**MinToolkit** ( https://slimtoolkit.org )
+- Founder/CEO at **AutonomousPlane.dev**
 - Founder/CTO at **Slim.AI**.
 
 ### Other interesting projects
