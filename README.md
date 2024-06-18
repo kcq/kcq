@@ -7,10 +7,13 @@ I little bit about me...
 - Founder/CEO at **AutonomousPlane.dev**
 - Founder/CTO at **Slim.AI**.
 
-### Other interesting projects
 
-- **50 Shades of Go**: http://golang50shad.es ( http://devs.cloudimmunity.com/gotchas-and-common-mistakes-in-go-golang/ )
-- **Go Project Layout**: https://github.com/golang-standards/project-layout
+### Online
+
+- Links: https://linktr.ee/kcqon
+- Twitter: https://twitter.com/kcqon
+- Website: https://kylequest.com (WIP)
+- LinkedIn: https://www.linkedin.com/in/kylequest/
 
 
 ### Recent Talks
@@ -35,10 +38,7 @@ I little bit about me...
 - [Improving Your Containers with docker-slim and Slim.AI](https://www.youtube.com/watch?v=ql0UxDYJTMs) ( **Kubesimplify** - https://www.youtube.com/@kubesimplify )
 
 
-### Online
+### Other interesting projects
 
-- Twitter: https://twitter.com/kcqon
-- Website: https://kylequest.com (WIP)
-- LinkedIn: https://www.linkedin.com/in/kylequest/
-
-
+- **50 Shades of Go**: http://golang50shad.es ( http://devs.cloudimmunity.com/gotchas-and-common-mistakes-in-go-golang/ )
+- **Go Project Layout**: https://github.com/golang-standards/project-layout
