@@ -25,6 +25,7 @@ I little bit about me...
 
 ### Podcasts
 
+- [Shrink Images & Debug Them in Docker, Podman, Kubernetes and ContainerD with MinToolkit (aka DockerSlim) (Ep 268)](https://www.youtube.com/watch?v=osIvjM34Pic) (**Bret Fisher Docker and DevOps** - https://www.youtube.com/@BretFisher )
 - [Building Secure Containers Faster with Slim AI - Episode 86](https://podcasters.spotify.com/pod/show/ossstartuppodcast/episodes/E86-Building-Secure-Containers-Faster-with-Slim-AI-e243j0i) ( **Open Source Startup Podcast** - https://oss-startup-podcast.launchnotes.io )
 - [Episode 34, Slim.AI](https://www.heavybit.com/library/podcasts/the-kubelist-podcast/ep-34-slim-ai-with-kyle-quest-and-john-amaral) ( **The Kubelist Podcast** - https://kubelist.com/podcast )
 - [Episode 105, Slim.AI](https://podcast.sustainoss.org/105) ( **Sustain Podcast** - https://sustainoss.org )
